@@ -23,6 +23,12 @@ class MainApp extends StatelessWidget {
                 },
                 child: const Text('Click Me'),
               ),
+              ElevatedButton(
+                onPressed: () {
+                  // Add your "Vieww Point" button action here
+                },
+                child: const Text('Vieww Point'),
+              ),
               const Text('New Text Added'), // <-- Added text widget
               const Text('Another Text'), // <-- Newly added
             ],
