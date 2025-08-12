@@ -24,7 +24,7 @@ class MainApp extends StatelessWidget {
                 child: const Text('Click Me'),
               ),
               const Text('New Text Added'), // <-- Added text widget
-              const Text('Another Text'), // <-- Newly added
+              const Text('Added another text'), // <-- Newly added text
             ],
           ),
         ),
@@ -34,3 +34,4 @@ class MainApp extends StatelessWidget {
 }
 // helowwwwwwwwwwwww.............
 // sowmyaaaaa...
+// hi akki...
