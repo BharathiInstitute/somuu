@@ -23,6 +23,7 @@ class MainApp extends StatelessWidget {
                 },
                 child: const Text('Click Me'),
               ),
+              const Text('New Text Added'), // <-- Added text widget
             ],
           ),
         ),
@@ -31,3 +32,4 @@ class MainApp extends StatelessWidget {
   }
 }
 // helowwwwwwwwwwwww.............
+// sowmyaaaaa
